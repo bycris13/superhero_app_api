@@ -1,4 +1,4 @@
-# 🦸‍♂️ superhero_app_api
+#  superhero_app_api
 
 📱 **Flutter Superhero App**  
 Esta aplicación Flutter permite buscar superhéroes utilizando la [SuperHero API](https://superheroapi.com/). Muestra detalles como el nombre del personaje, imagen, nombre real y estadísticas representadas con barras visuales (poder, velocidad, inteligencia, etc.).
